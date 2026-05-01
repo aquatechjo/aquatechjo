@@ -1,16 +1,28 @@
-## Hi there 👋
+# AquaTech
 
-<!--
-**aquatechjo/aquatechjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Digital Growth Studio based in Amman, Jordan**
 
-Here are some ideas to get you started:
+We build websites, custom systems, AI automation, and social media growth solutions that help businesses turn visitors into real clients.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What we do
+
+- Websites & Landing Pages
+- Mobile Apps
+- Custom Business Systems
+- AI Automation & Chatbots
+- ERP & Internal Tools
+- Social Media Management
+- Branding & Digital Growth
+
+## Why AquaTech
+
+We focus on business results, not just design or code.
+
+Our goal is simple:  
+**help companies launch faster, look more professional, and get more clients.**
+
+## Contact
+
+Website: https://aqua-tech-site.vercel.app  
+WhatsApp: https://wa.me/962780932199?text=Hello%20I%20want%20to%20start%20a%20project  
+Location: Amman, Jordan
